@@ -76,3 +76,14 @@ body {
     border-radius: 50%;
     z-index: 3;
 }
+
+.eye-right {
+    position: absolute;
+    background: white;
+    width: 30%;
+    height: 33%;
+    top: 25%;
+    right: 21%;
+    border-radius: 50%;
+    z-index: 3;
+}
