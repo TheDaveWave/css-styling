@@ -1,3 +1,11 @@
 body {
     background: #34E4EA;
 }
+
+.box {
+    position: relative;
+    margin: auto;
+    display: block;
+    /* border for seeing visual changes */
+    border: solid 4px red; /*comment out later*/
+}
