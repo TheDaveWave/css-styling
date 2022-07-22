@@ -119,3 +119,14 @@ body {
     -webkit-clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
 }
+
+.hair-right {
+    position: absolute;
+    top: -4%;
+    left: 48%;
+    width: 20%;
+    height: 20%;
+    background: #A6BECF;
+    -webkit-clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+}
