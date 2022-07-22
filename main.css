@@ -87,3 +87,13 @@ body {
     border-radius: 50%;
     z-index: 3;
 }
+
+.pupil {
+    position: absolute;
+    width: 28%;
+    height: 30%;
+    top: 35%;
+    left: 36%;
+    border-radius: 50%;
+    background: #27354A;
+}
