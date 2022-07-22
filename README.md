@@ -1,2 +1,2 @@
 # css-styling
-Trying to make a image using CSS
+Trying to make an image using CSS
