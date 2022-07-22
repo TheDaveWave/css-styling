@@ -13,3 +13,14 @@ body {
     height: 420px;
     background: none;
 }
+
+.head {
+    position: absolute;
+    top: 16.5%;
+    left: 25%;
+    width: 50%;
+    height: 67%;
+    background: #A6BECF;
+    /* radius of 50% always makes a circle? */
+    border-radius: 50%;
+}
