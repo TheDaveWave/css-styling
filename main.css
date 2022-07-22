@@ -24,3 +24,12 @@ body {
     /* radius of 50% always makes a circle? */
     border-radius: 50%;
 }
+
+.head-copy {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: #A6BECF;
+    border-radius: 50%;
+    z-index: 2;
+}
