@@ -97,3 +97,14 @@ body {
     border-radius: 50%;
     background: #27354A;
 }
+
+.nose {
+    position: absolute;
+    background: #BE845F;
+    width: 25%;
+    height: 42.5%;
+    left: 37%;
+    top: 45%;
+    border-radius: 50px;
+    z-index: 4;
+}
