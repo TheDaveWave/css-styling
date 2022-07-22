@@ -44,3 +44,14 @@ body {
     border-radius: 50%;
     z-index: 1;
 }
+
+.ear-right {
+    position: absolute;
+    width: 60%;
+    height: 65%;
+    right: -20%;
+    top: 5%;
+    background: #A6BECF;
+    border-radius: 50%;
+    z-index: 1;
+}
