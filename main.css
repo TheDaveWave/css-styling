@@ -65,3 +65,14 @@ body {
     left: 10%;
     background: #819CAF;
 }
+
+.eye-left {
+    position: absolute;
+    background: white;
+    width: 30%;
+    height: 33%;
+    top: 25%;
+    left: 21%;
+    border-radius: 50%;
+    z-index: 3;
+}
