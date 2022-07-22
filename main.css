@@ -7,7 +7,8 @@ body {
     margin: auto;
     display: block;
     /* border for seeing visual changes */
-    border: solid 4px red; /*comment out later*/
+    /* comment out border for testing */
+    /* border: solid 4px red; */
     margin-top: 8%;
     width: 600px;
     height: 420px;
