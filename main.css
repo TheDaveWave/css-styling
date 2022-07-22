@@ -33,3 +33,14 @@ body {
     border-radius: 50%;
     z-index: 2;
 }
+
+.ear-left {
+    position: absolute;
+    width: 60%;
+    height: 65%;
+    left: -20%;
+    top: 5%;
+    background: #A6BECF;
+    border-radius: 50%;
+    z-index: 1;
+}
